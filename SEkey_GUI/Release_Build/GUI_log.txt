@@ -1,0 +1,4 @@
+Fri Feb 12 16:59:05 2021 | Start the backend
+Fri Feb 12 16:59:05 2021 | Client: connection failed
+Fri Feb 12 16:59:05 2021 | Client: connection done!
+Fri Feb 12 16:59:36 2021 | SEcube login OK

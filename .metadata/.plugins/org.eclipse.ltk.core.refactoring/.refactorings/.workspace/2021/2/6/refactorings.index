@@ -1,0 +1,6 @@
+1613064658678	Rename resource 'SEcube_Host'
+1613066097778	Rename resource 'SEkey_GUI'
+1613082201787	Delete resource 'SEkey_backend/sekey/SEkey.h.bak'
+1613144958843	Delete resource 'SEkey_backend/examples/device_init.cpp'
+1613144984836	Delete resource 'SEkey_backend/examples'
+1613145089971	Delete resource 'SEkey_backend/sefile/doxygen_sefile.h'

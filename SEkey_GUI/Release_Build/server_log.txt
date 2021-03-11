@@ -1,0 +1,7 @@
+Fri Feb 12 16:59:05 2021 | Waiting for connection
+Fri Feb 12 16:59:14 2021 | SEcube login OK
+Fri Feb 12 16:59:36 2021 | SEkey started
+Fri Feb 12 16:59:36 2021 | OK, no errors.
+Fri Feb 12 16:59:40 2021 | SEcube server quit
+Fri Feb 12 16:59:41 2021 | SEkey stopped
+Fri Feb 12 16:59:41 2021 | Logout

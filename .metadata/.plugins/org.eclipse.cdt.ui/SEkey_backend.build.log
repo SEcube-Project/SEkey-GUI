@@ -1,0 +1,7 @@
+16:59:52 **** Clean-only build of configuration Release for project SEkey_backend ****
+make -j4 clean 
+rm -rf  ./sqlite/sqlite3.o  ./sources/L1/L1\ Base/L1_base.o  ./sources/L1/Crypto\ Libraries/aes256.o ./sources/L1/Crypto\ Libraries/pbkdf2.o ./sources/L1/Crypto\ Libraries/sha256.o  ./sources/L1/L1.o ./sources/L1/L1_login_logout.o ./sources/L1/L1_security.o ./sources/L1/L1_sekey.o  ./sources/L0/L0\ Base/L0_base.o  ./sources/L0/L0.o ./sources/L0/L0_commodities.o ./sources/L0/L0_communication.o ./sources/L0/L0_provision.o  ./sekey/SEkey.o  ./sefile/SEcureDB.o ./sefile/SEfile.o  ./main.o  ./sources/L1/L1\ Base/L1_base.d  ./sources/L1/Crypto\ Libraries/aes256.d  ./sources/L1/L1.d ./sources/L1/L1_login_logout.d ./sources/L1/L1_security.d ./sources/L1/L1_sekey.d  ./sources/L0/L0\ Base/L0_base.d  ./sources/L0/L0.d ./sources/L0/L0_commodities.d ./sources/L0/L0_communication.d ./sources/L0/L0_provision.d  ./sekey/SEkey.d  ./sefile/SEcureDB.d ./sefile/SEfile.d  ./main.d  ./sqlite/sqlite3.d  ./sources/L1/Crypto\ Libraries/pbkdf2.d ./sources/L1/Crypto\ Libraries/sha256.d  SEkey_backend.exe
+ 
+
+16:59:53 Build Finished. 0 errors, 0 warnings. (took 211ms)
+

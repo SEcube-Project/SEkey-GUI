@@ -1,0 +1,15 @@
+15:13:49 **** Incremental Build of configuration Release for project SEcube_Host ****
+make -j4 all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O3 -Wall -c -fmessage-length=0 -DSQLITE_TEMP_STORE=3 -std=c++17 -pthread -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SEcube_Host.exe
+Invoking: GCC C++ Linker
+g++ -pthread -o "SEcube_Host.exe"  ./sqlite/sqlite3.o  ./sources/L1/L1\ Base/L1_base.o  ./sources/L1/Crypto\ Libraries/aes256.o ./sources/L1/Crypto\ Libraries/pbkdf2.o ./sources/L1/Crypto\ Libraries/sha256.o  ./sources/L1/L1.o ./sources/L1/L1_login_logout.o ./sources/L1/L1_security.o ./sources/L1/L1_sekey.o  ./sources/L0/L0\ Base/L0_base.o  ./sources/L0/L0.o ./sources/L0/L0_commodities.o ./sources/L0/L0_communication.o ./sources/L0/L0_provision.o  ./sekey/SEkey.o  ./sefile/SEcureDB.o ./sefile/SEfile.o  ./examples/device_init.o ./examples/digest_algorithms.o ./examples/encryption_algorithms.o ./examples/hello_world.o ./examples/manual_key_management.o ./examples/sefile_example.o ./examples/sekey_example.o ./examples/selink_example.o  ./main.o   
+Finished building target: SEcube_Host.exe
+ 
+
+15:13:57 Build Finished. 0 errors, 0 warnings. (took 7s.186ms)
+

@@ -1,0 +1,362 @@
+/************/
+User ID: U1
+Username: USER1
+SEcube S/N: 16100999964fT204VFTEZ3M9095x9kGO
+SEcube user (low privilege) PIN: empty
+SEcube admin (high privilege) PIN: empty
+Algorithm for updates: AES_HMAC_SHA256
+Key ID for updates: 4294867294
+Key ID for encrypted keys inside updates: 4294867295
+User SEcube status: not initialized.
+Update counter: 90
+List of groups to which the user belongs: 
+G1
+G2
+G4
+G5
+/************/
+User ID: U2
+Username: USER2
+SEcube S/N: 1610099998uNCex9GtmtlC0ZgY0y0UoG
+SEcube user (low privilege) PIN: empty
+SEcube admin (high privilege) PIN: empty
+Algorithm for updates: AES_HMAC_SHA256
+Key ID for updates: 4294867296
+Key ID for encrypted keys inside updates: 4294867297
+User SEcube status: not initialized.
+Update counter: 72
+List of groups to which the user belongs: 
+G1
+G2
+G3
+G4
+/************/
+User ID: U3
+Username: USER3
+SEcube S/N: 1610100001pM6agrEm0V905d69nNwEr5
+SEcube user (low privilege) PIN: empty
+SEcube admin (high privilege) PIN: empty
+Algorithm for updates: AES_HMAC_SHA256
+Key ID for updates: 4294867298
+Key ID for encrypted keys inside updates: 4294867299
+User SEcube status: not initialized.
+Update counter: 67
+List of groups to which the user belongs: 
+G1
+G2
+G3
+G5
+/************/
+User ID: U4
+Username: User_4
+SEcube S/N: 1610100004f3G155d7H37NN6s2F5Qoc6
+SEcube user (low privilege) PIN: empty
+SEcube admin (high privilege) PIN: empty
+Algorithm for updates: AES_HMAC_SHA256
+Key ID for updates: 4294867300
+Key ID for encrypted keys inside updates: 4294867301
+User SEcube status: not initialized.
+Update counter: 61
+List of groups to which the user belongs: 
+G1
+G2
+G4
+G5
+/************/
+User ID: U5
+Username: User_5
+SEcube S/N: 1610100008nGEpcr925j2P9bKk617bVh
+SEcube user (low privilege) PIN: empty
+SEcube admin (high privilege) PIN: empty
+Algorithm for updates: AES_HMAC_SHA256
+Key ID for updates: 4294867302
+Key ID for encrypted keys inside updates: 4294867303
+User SEcube status: not initialized.
+Update counter: 63
+List of groups to which the user belongs: 
+G1
+G3
+G4
+G5
+/************/
+Group ID: G1
+Group name: GROUP1
+Number of users in this group: 5
+Number of keys of this group: 3
+Maximum number of keys for this group: 9999
+Algorithm used by the keys of this group: AES_HMACSHA256
+Validity period of the keys of this group when activated: 30 days, 10 hours, 30 minutes, 0 seconds.
+/************/
+Group ID: G2
+Group name: GROUP2
+Number of users in this group: 4
+Number of keys of this group: 3
+Maximum number of keys for this group: 9999
+Algorithm used by the keys of this group: AES_HMACSHA256
+Validity period of the keys of this group when activated: 30 days, 10 hours, 30 minutes, 0 seconds.
+/************/
+Group ID: G3
+Group name: GROUP3
+Number of users in this group: 3
+Number of keys of this group: 3
+Maximum number of keys for this group: 9999
+Algorithm used by the keys of this group: AES_HMACSHA256
+Validity period of the keys of this group when activated: 30 days, 10 hours, 30 minutes, 0 seconds.
+/************/
+Group ID: G4
+Group name: GROUP4
+Number of users in this group: 4
+Number of keys of this group: 3
+Maximum number of keys for this group: 9999
+Algorithm used by the keys of this group: AES_HMACSHA256
+Validity period of the keys of this group when activated: 30 days, 10 hours, 30 minutes, 0 seconds.
+/************/
+Group ID: G5
+Group name: Group_5
+Number of users in this group: 4
+Number of keys of this group: 3
+Maximum number of keys for this group: 1000
+Algorithm used by the keys of this group: AES_HMACSHA256
+Validity period of the keys of this group when activated: 365 days, 0 hours, 0 minutes, 0 seconds.
+/************/
+Key ID: K2001
+Key name: KEY2001
+Group owner of the key: G1
+Key status: compromised
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:04:18
+Key activation date: 01/08/21 10:09:40
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:09:40
+Key compromise date: 01/08/21 10:11:56
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2002
+Key name: KEY2002
+Group owner of the key: G2
+Key status: active
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:04:39
+Key activation date: 01/08/21 10:09:59
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:09:59
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2003
+Key name: KEY2003
+Group owner of the key: G3
+Key status: suspended
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:04:58
+Key activation date: 01/08/21 10:10:16
+Key suspension date: 01/08/21 10:13:02
+Key expiration date: 01/08/22 10:10:16
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2004
+Key name: Key_2004
+Group owner of the key: G4
+Key status: active
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:05:17
+Key activation date: 01/08/21 10:10:32
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:10:32
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2005
+Key name: Key_2005
+Group owner of the key: G5
+Key status: compromised
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:05:36
+Key activation date: 01/08/21 10:10:49
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:10:49
+Key compromise date: 01/08/21 10:12:14
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2006
+Key name: Key_2006
+Group owner of the key: G1
+Key status: destroyed
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:05:57
+Key activation date: value not set (0)
+Key suspension date: value not set (0)
+Key expiration date: value not set (0)
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: 01/08/21 10:11:06
+/************/
+Key ID: K2007
+Key name: Key_2007
+Group owner of the key: G2
+Key status: suspended
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:06:21
+Key activation date: 01/08/21 10:13:19
+Key suspension date: 01/08/21 10:14:07
+Key expiration date: 01/08/22 10:13:19
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2008
+Key name: Key_2008
+Group owner of the key: G3
+Key status: active
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:06:42
+Key activation date: 01/08/21 10:13:35
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:13:35
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2009
+Key name: Key_2009
+Group owner of the key: G4
+Key status: deactivated
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:07:03
+Key activation date: value not set (0)
+Key suspension date: value not set (0)
+Key expiration date: value not set (0)
+Key compromise date: value not set (0)
+Key deactivation date: 01/08/21 10:12:29
+Key destruction date: value not set (0)
+/************/
+Key ID: K2010
+Key name: Key_2010
+Group owner of the key: G5
+Key status: active
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:07:25
+Key activation date: 01/08/21 10:13:51
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:13:51
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2011
+Key name: Key_2011
+Group owner of the key: G1
+Key status: active
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:07:46
+Key activation date: 01/08/21 10:14:24
+Key suspension date: value not set (0)
+Key expiration date: 01/08/22 10:14:24
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2012
+Key name: Key_2012
+Group owner of the key: G2
+Key status: preactive
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:08:11
+Key activation date: value not set (0)
+Key suspension date: value not set (0)
+Key expiration date: value not set (0)
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: value not set (0)
+/************/
+Key ID: K2013
+Key name: Key_2013
+Group owner of the key: G3
+Key status: destroyed
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:08:33
+Key activation date: value not set (0)
+Key suspension date: value not set (0)
+Key expiration date: value not set (0)
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: 01/08/21 10:11:24
+/************/
+Key ID: K2014
+Key name: Key_2014
+Group owner of the key: G4
+Key status: deactivated
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:08:55
+Key activation date: value not set (0)
+Key suspension date: value not set (0)
+Key expiration date: value not set (0)
+Key compromise date: value not set (0)
+Key deactivation date: 01/08/21 10:12:45
+Key destruction date: value not set (0)
+/************/
+Key ID: K2015
+Key name: Key_2015
+Group owner of the key: G5
+Key status: destroyed
+Key algorithm: AES_HMACSHA256
+Key length (bits): 256
+Key type: symmetric data encryption
+Key cryptoperiod (seconds): 0 days, 0 hours, 0 minutes, 0 seconds.
+Key generation date: 01/08/21 10:09:17
+Key activation date: value not set (0)
+Key suspension date: value not set (0)
+Key expiration date: value not set (0)
+Key compromise date: value not set (0)
+Key deactivation date: value not set (0)
+Key destruction date: 01/08/21 10:11:40
+
+--- SEKEY RECOVERY CONTENT ---
