@@ -1,6 +1,6 @@
 <img src="https://www.secube.eu/site/templates/dist/img/logo.png" width="400px" />
 
-# Graphical User Interface for the SEkey™ utilities 
+# Graphical User Interface for the SEkey™ Utilities 
 Copyright (C) 2021 Blu5 Labs Ltd.
 
 ## Licence
